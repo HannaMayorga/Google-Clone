@@ -5,8 +5,8 @@
 ## Índice
 * [Intro](https://github.com/HannaMayorga/Google-Clone/blob/main/README.md#-intro)
 * [¿Qué Construí?](https://github.com/HannaMayorga/Google-Clone/blob/main/README.md#qu%C3%A9-constru%C3%AD)
-* [Objetivo]()
-* [¡¡Link al Demo!!]()
+* [Objetivo](https://github.com/HannaMayorga/Google-Clone/blob/main/README.md#-objetivo)
+* [¡¡Link al Demo!!](https://github.com/HannaMayorga/Google-Clone/blob/main/README.md#link-al-demo)
 
 ***
 ## 📖 Intro
